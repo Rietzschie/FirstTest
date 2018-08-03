@@ -8,5 +8,5 @@ public class main
          meinJDialog.setSize(450,300);
          // Zur Veranschaulichung erstellen wir hier eine Border
          Border bo = new LineBorder(Color.DARK_GRAY);
-         }
-         }
+     }
+}
